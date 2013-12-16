@@ -1,5 +1,5 @@
 Description:
-zOscope is a low speed digital oscilloscope using an arduino UNO and a PC or Mac.  The images below show the GUI and the on-line help windows. ???
+zOscope is a low speed digital oscilloscope using an arduino UNO and a PC or Mac.  
 
 Required:
 arduino UNO board or equivalent – for data acquistion
