@@ -11,7 +11,8 @@ Java 6 or greater
 Inputs:<br>
   2 analog chans - 0-5 vdc, 100 samples/chan, 8 bits/sample  
   4 digital chans – 0 or 5v, 100 samples/chan  
-fastest sweep speeds:  
+  
+Fastest sweep speeds:  
   with 2 analog chans, ???  
   with 1 analog chans, ???  
   with only digital chans, ???  
